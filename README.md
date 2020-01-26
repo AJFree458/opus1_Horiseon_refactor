@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a refactor of an existing webpage to do the following:
+This project is a refactor of an existing webpage to do the following:
     1. Change the codebase so that it follows accessibility standards.
     2. Make any changes to the codebase to clean it up from what was there previously.
 
@@ -11,7 +11,7 @@ To do so, the source code needed semantic elements added. These elements needed 
 The images needed alt attributes, and the headings needed to be in sequential order.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 Not needed for this project.
 
